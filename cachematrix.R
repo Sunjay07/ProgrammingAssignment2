@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Put comments here that give an overall description of 
+## what your functions do
 
 ## Computing the inverse of a square matrix 
 ## can be done with the solve function in R. 
@@ -38,7 +38,7 @@ list(set = set, get = get,
      GetMatrixInverse = GetMatrixInverse)
 }
 
-## Write a short comment describing this function
+## Write a short comment describing this function-
 
 ## cacheSolve: This function computes 
 ## the inverse of the special "matrix" 
